@@ -1,49 +1,53 @@
 # José Ayala - Full Stack Developer 🚀
 
-👋 Hi there! I'm **José Ayala**, a passionate Full Stack Developer based in Cuenca, Ecuador. With a strong background in web development, I specialize in creating efficient, scalable, and user-friendly applications. I am open to new opportunities and collaborations!
+Hi! I'm **José Alberto Ayala**, a Full Stack Developer based in Cuenca, Ecuador.
 
-## About Me
-
-- 🌍 **Location:** Cuenca, Ecuador
-- 📧 **Email:** josealbertoayalazumba@gmail.com
-- 💼 **Open to Work:** Yes
-
-
-## Skills and Technologies 🛠️
-
-### Frontend Development
-- **React:** Crafting dynamic and interactive user interfaces.
-- **Next.js:** Utilizing server-side rendering and static site generation for optimal performance.
-- **PHP:** Utilizing server-side logic
-
-### Backend Development
-- **Node.js:** Building scalable server-side applications.
-- **REST API:** Designing and implementing robust RESTful APIs.
-- **Llama 3:** Integrating AI models to enhance application functionality.
-- **Java:** My first lenguaje learned
-
-### Database Management
-- **Prisma:** Using this ORM to interact seamlessly with databases.
-- **MySQL:** Managing and manipulating relational databases.
-- **Postgress:** Managing and manipulating relational databases - base.
-
-### State Management and Validation
-- **Zod:** Schema declaration and validation for TypeScript.
-- **Zustand:** Implementing efficient and scalable state management solutions.
-
-### Other Tools and Libraries
-- **ToastNotification:** Providing a smooth user experience with notifications.
-- **ZPL:** Generating barcodes and integrating them into applications.
-
-## Projects
-
-### BASIC-STORE-SYSTEM-NEXTJS-14.2.0-MYSQL 🛒
-A comprehensive system for managing generic stores, featuring product management, sales updates, and barcode generation. This project showcases my ability to leverage modern web technologies to create robust and user-friendly applications.
-
-## Contact Me 📬
-
-Feel free to reach out to me via email for any collaboration or job opportunities. Let's build something amazing together!
+I focus on building scalable systems, designing clean architectures, and creating products that generate real business value.
 
 ---
 
-⭐️ From [JSAYALAZ](https://github.com/JSAYALAZ)
+## 🧠 About Me
+
+- 📍 Cuenca, Ecuador  
+- 📧 jsayalaz@hotmail.com  
+- 🥋 Taekwondo Black Belt  
+
+---
+
+## 🧩 Projects
+
+### 🏋️ Gym Platform
+Digital platform for a calisthenics gym focused on managing users, subscriptions, and training schedules.
+
+### 🛒 ARCA - Sales System
+System designed to manage sales, inventory, and payments for small businesses in a centralized way.
+
+### 🧾 Invoicing Microservice
+Independent service responsible for handling electronic invoicing and secure digital signature processing.
+
+### 🌐 Fundafiq Landing Page
+Modern website created to improve the digital presence and communication of an organization.
+
+---
+
+## 🛠️ Technical Skills
+
+- Backend Development (Node.js)
+- RESTful APIs
+- Database Design (SQL)
+- Domain-Driven Design (DDD)
+- AWS Infrastructure
+- Full Stack Development (React / Next.js)
+
+---
+
+## 🤝 Soft Skills
+
+- Problem Solving  
+- Communication  
+- Adaptability  
+- Teamwork  
+
+---
+
+⭐️ From JSAYALAZ
