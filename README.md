@@ -8,7 +8,8 @@ I focus on building scalable systems, designing clean architectures, and creatin
 
 ## 🧠 About Me
 
-- 📍 Cuenca, Ecuador  
+- 📍 Cuenca, Ecuador
+- 🌐 https://ecuafusion.vercel.app/
 - 📧 jsayalaz@hotmail.com  
 - 🥋 Taekwondo Black Belt  
 
