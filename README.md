@@ -65,23 +65,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,react,nextjs,tailwind,postgres,mysql,docker,aws,git,github,vercel&perline=7" alt="Tech stack" />
   </a>
 </p>
-
-| Area | Focus |
-|------|-------|
-| ⚙️ **Backend** | Node.js, NestJS, RESTful APIs, microservices |
-| 🎨 **Frontend** | React, Next.js |
-| 🗄️ **Databases** | SQL, PostgreSQL, database design |
-| 🏛️ **Architecture** | Domain-Driven Design (DDD), clean architecture |
-| ☁️ **Cloud** | AWS infrastructure |
-
-**🤝 Soft skills:** Problem Solving · Communication · Adaptability · Teamwork
 
 ---
 
